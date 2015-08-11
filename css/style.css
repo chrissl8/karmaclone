@@ -480,7 +480,7 @@ th {
   background-position: center bottom;
   background-repeat: no-repeat;
   background-size: cover;
-  height: 45.936rem;
+  height: 45.938rem;
   overflow: auto;
 }
 
@@ -503,12 +503,21 @@ font-size: 3.125rem;
 
 /* The Buttons */
 
-.introduction . buttons {
+.introduction .buttons {
   color: white;
   text-align: center;
   margin-top: 1.563rem;
+  margin: 0 auto;
 }
 
+.introduction .buttons .big-button {
+  text-shadow: none;
+  border-style: none;
+  border-radius: 4px;
+  padding: 16px 26px;
+  line-height: 1.33;
+  background-color: #FF4719;
+}
 
 
 
