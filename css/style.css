@@ -425,14 +425,7 @@ td,
 th {
   padding: 0;
 }
-div {
-  border: 1px solid Chocolate;
-}
 
-#navigation {
-  position: fixed;
-  top:0;
-}
 
 li {
   display:inline-block;
